@@ -6,3 +6,5 @@
 hello remote and local connected
 
 #edited on directly github
+## Discarding Uncommiting Change
+a hands-on labrepository for practicing git and github
