@@ -4,3 +4,5 @@
 # git lab project (feature branch version)
 >>>>>>> feature-title-change
 hello remote and local connected
+
+#edited on directly github
